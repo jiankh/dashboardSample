@@ -24,22 +24,21 @@
     display: grid;
     padding: 20px;
     align-content: start;
+    color:white;
 }
 
 .sidebar>* {
     padding: 20px 0px;
-}
- 
-.logo {
     
 }
 
-.links-container {
-    
+a {
+    text-decoration: none;
+    color:inherit;
 }
 
-.settings-container {
-    
+.links {
+    padding: 5px 0;
 }
 
 
