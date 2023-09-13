@@ -275,6 +275,9 @@ a {
     font-size: 0.7rem;
 }
 
+img {
+    cursor: pointer;
+}
 
 
 @media only screen and (max-width: 1000px) {
